@@ -1,0 +1,10 @@
+.list-wrapper {
+    height: 90%;
+}
+.list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 420px;
+    overflow-y: auto;
+}
